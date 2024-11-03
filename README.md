@@ -1,0 +1,2 @@
+This project is a chess game built using Java and JavaFX that simulates the gameplay of a standard chess match with an interactive graphical interface. In addition to allowing players to play a full game of chess, the system is designed to evaluate the user's move options and provide visual feedback on legal moves. The chess engine validates each move for legality and updates the board accordingly, while the graphical interface allows players to interact with the game seamlessly.
+
